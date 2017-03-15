@@ -1,0 +1,11 @@
+{
+  "name": "prettier-eslint-stdio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aaron Jensen",
+  "license": "MIT",
+  "dependencies": {
+    "prettier-eslint": "^4.2.1",
+    "split": "^1.0.0"
+  }
+}

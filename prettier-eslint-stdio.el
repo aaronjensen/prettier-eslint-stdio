@@ -1,0 +1,2 @@
+
+(provide 'prettier-eslint-stdio)
